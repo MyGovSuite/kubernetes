@@ -1,6 +1,6 @@
 apiVersion: v2
-name: kubernetes
-description: A Helm chart for Kubernetes
+name: mygovcms
+description: A Helm chart for MyGovCMS
 
 # A chart can be either an 'application' or a 'library' chart.
 #
