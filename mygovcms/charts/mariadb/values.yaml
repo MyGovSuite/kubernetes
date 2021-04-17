@@ -247,7 +247,7 @@ master:
       - ReadWriteOnce
     ## Persistent Volume size
     ##
-    size: 8Gi
+    size: 1Gi
 
   ## Add extra init Containers (evaluated as a templ
   ##
@@ -386,7 +386,7 @@ slave:
       - ReadWriteOnce
     ## Persistent Volume size
     ##
-    size: 8Gi
+    size: 1Gi
 
   ## Add extra init containers
   ##
